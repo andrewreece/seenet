@@ -1,4 +1,4 @@
-## SEE:Net - Network graph of MIT's Social Evolution Experiment (SEE)
+## SEE:Net - Network graph of MIT's Social Evolution Experiment
 
 ![SEE:net screenshot](images/seenet.png)  
 
