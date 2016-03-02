@@ -10,8 +10,6 @@ Data visualization is often underestimated as a tool for discovery in data scien
 
 Network graphs are a great example of data that human brains just don't represent very well, and there's real value in the exploratory phase of a project in finding good ways to visualize them.  
 
-Check out [our screencast](https://www.youtube.com/watch?v=5vMvluLGuK8) for a brief introduction to SEE:Net.
-
 SEE:Net shows three different views of the SEE data, using [D3](https://d3js.org/): 
 - [Force-directed graph](http://bl.ocks.org/mbostock/1093130)
 - [Chord diagram](http://bl.ocks.org/mbostock/1046712)
@@ -19,3 +17,4 @@ SEE:Net shows three different views of the SEE data, using [D3](https://d3js.org
 
 We also added a simple animation function, so you can watch how the relationships in the network evolve over time.  Combining multiple views with dynamic time series information yields a visual representation of the data that would be very hard to come up with otherwise.  
 
+Check out [our screencast](https://www.youtube.com/watch?v=5vMvluLGuK8) for a brief introduction to SEE:Net.
