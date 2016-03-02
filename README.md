@@ -1,6 +1,6 @@
 ## SEE:Net - Network graph of MIT's Social Evolution Experiment
 
-![SEE:net screenshot](images/seenet.png)  
+![SEE:net screenshot1](images/seenet-chord.png)  ![SEE:net screenshot2](images/seenet.png)  
 
 ### [SEE:Net](http://andrewgarrettreece.com/seenet) is a window into the social lives of a group of MIT Freshmen.  
 
